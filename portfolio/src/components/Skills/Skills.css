@@ -1,0 +1,45 @@
+ .skills{
+    width: 100vw;
+    max-width: 75rem;
+    align-items: center;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+ }
+
+ .abtskills{
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-top: auto;
+ }
+
+ .desc{
+    font-size: 1rem;
+    font-weight: 300;
+    padding: 0 2rem;
+
+ }
+
+ .skillBars{
+    padding:1.5rem 2rem;
+    width: 100vw;
+    max-width: 75rem;
+    text-align: left;
+ }
+
+ .skillbar{
+    display: flex;
+    background-color: rgb(50,50,50);
+    padding:1.5rem 2rem;
+    margin: 1rem;
+    border-radius: 0.5rem;
+ }
+
+ .skillbarimg{
+    height: 3rem;
+    width: 3rem;
+    margin-right: 1rem;
+ }
